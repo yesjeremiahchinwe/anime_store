@@ -9,7 +9,7 @@
 
 ## Links
 
-- Live Site URL: [Vercel](https://getlinked-mu.vercel.app/)
+- Live Site URL: [Vercel](https://anime-store-red.vercel.app/)
 
 ## Built With
 
